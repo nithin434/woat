@@ -1,6 +1,6 @@
 # Woat: WhatsApp Auto-Reply Bot
 
-EchoNerd is a WhatsApp bot that automatically responds to messages with intelligent, context-aware replies powered by the Gemini API. It leverages tone recognition and conversation history to generate responses that mimic your communication style, ensuring replies feel personal and natural.
+Woat is a WhatsApp bot that automatically responds to messages with intelligent, context-aware replies powered by the Gemini API. It leverages tone recognition and conversation history to generate responses that mimic your communication style, ensuring replies feel personal and natural.
 
 ## Features
 
