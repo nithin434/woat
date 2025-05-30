@@ -26,7 +26,7 @@ pip install google-generativeai
 
 ### Step 2: Obtain Gemini API Key
 
-1. Visit Google AI Studio.
+1. Visit Google AI Studio(https://aistudio.google.com/app/apikey).
 2. Click "Create API Key".
 3. Copy the generated API key.
 4. Replace `YOUR_GEMINI_API_KEY_HERE` in `gemini_bot.py` with your key.
