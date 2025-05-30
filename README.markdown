@@ -106,6 +106,7 @@ EchoNerd processes incoming WhatsApp messages as follows:
 ## Contact
 
 For questions, suggestions, or contributions, open an issue on this repository or reach out via GitHub.
+`Email: nithinjambula89@gmail.com`
 
 ## License
 
