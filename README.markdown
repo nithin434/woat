@@ -1,4 +1,4 @@
-# EchoNerd: WhatsApp Auto-Reply Bot
+# Woat: WhatsApp Auto-Reply Bot
 
 EchoNerd is a WhatsApp bot that automatically responds to messages with intelligent, context-aware replies powered by the Gemini API. It leverages tone recognition and conversation history to generate responses that mimic your communication style, ensuring replies feel personal and natural.
 
@@ -50,7 +50,7 @@ Edit `smart_whatsapp_bot.js` to customize the bot's behavior:
 
 ```javascript
 // Contacts to monitor for auto-replies
-const MONITOR_CONTACTS = ["Mom", "+918897230748", "+919347632259", "ALL"];
+const MONITOR_CONTACTS = ["Mom", "+919347632xx", "ALL"];
 
 // Enable or disable AI-powered responses
 const USE_AI_RESPONSES = true; // Set to false for static replies
